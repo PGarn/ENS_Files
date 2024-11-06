@@ -35,7 +35,7 @@
 
 ---
 
-### **Déroulement de la séance (2 heures) :**
+### **Déroulement de la séance (3 heures) :**
 
 #### **1. Introduction (15 minutes)**
 
@@ -45,7 +45,7 @@
 - **Discussion initiale :**
   - Chaque groupe présente brièvement le capteur qu'il a choisi et les raisons de ce choix.
 
-#### **2. Prise en main du capteur (30 minutes)**
+#### **2. Prise en main du capteur (45 minutes)**
 
 - **Installation du matériel :**
   - Distribution des kits Arduino et des capteurs aux groupes.
@@ -54,19 +54,19 @@
 - **Analyse :**
   - Comprendre comment le capteur fonctionne et comment les données peuvent être utilisées.
 
-#### **3. Développement du programme (60 minutes)**
+#### **3. Développement du programme (105 minutes)**
 
-- **Étape 1 : Conception de l'algorithme (20 minutes)**
+- **Étape 1 : Conception de l'algorithme (30 minutes)**
   - **Analyse du problème :**
     - Identifier les situations où le robot doit changer de direction.
   - **Création de l'algorithme :**
     - Élaborer un schéma logique ou un organigramme du fonctionnement souhaité.
-- **Étape 2 : Programmation (30 minutes)**
+- **Étape 2 : Programmation (50 minutes)**
   - **Écriture du code :**
     - Programmer les réactions du robot en fonction des données du capteur (avancer, reculer, tourner).
   - **Intégration des commandes moteurs :**
     - Associer les sorties du programme aux actions des moteurs du robot.
-- **Étape 3 : Tests et ajustements (10 minutes)**
+- **Étape 3 : Tests et ajustements (15 minutes)**
   - **Mise en pratique :**
     - Tester le programme sur le robot.
   - **Débogage :**
