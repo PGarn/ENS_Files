@@ -54,7 +54,7 @@
 - **Analyse :**
   - Comprendre comment le capteur fonctionne et comment les données peuvent être utilisées.
 
-#### **3. Développement du programme (105 minutes)**
+#### **3. Développement du programme (95 minutes)**
 
 - **Étape 1 : Conception de l'algorithme (30 minutes)**
   - **Analyse du problème :**
